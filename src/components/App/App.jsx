@@ -1,7 +1,7 @@
 import Profile from "../Profile/Profile";
 import FriendList from "../FriendList/FriendList";
 import TransactionHistory from "../TransactionHistory/TransactionHistory";
-import "./App.module.css"
+import "./App.css"
 import "modern-normalize";
 import userData from "../userData.json";
 import friends from "../friends.json";
