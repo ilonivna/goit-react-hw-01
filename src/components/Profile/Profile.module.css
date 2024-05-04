@@ -1,0 +1,40 @@
+.wrapper {
+    border: 1px solid #121212;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 375px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.profileName {
+    font-weight: bold;
+}
+
+.statList {
+    display: flex;
+}
+
+.statNumber {
+    font-weight: bold;
+}
+
+.profilePhoto {
+    margin: 0 auto;
+    background-color: rgb(112, 106, 106);
+    border-radius: 50%;
+    object-fit: fill;
+    height: 100px;
+    width: 100px;
+
+}
+
+.listItem {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: 1px solid #121212;
+    text-align: center;
+    background-color: rgb(168, 168, 172);
+}

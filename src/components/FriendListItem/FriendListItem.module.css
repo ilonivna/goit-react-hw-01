@@ -1,0 +1,27 @@
+.name {
+    font-size: 24px;
+}
+
+.listItem {
+    flex-basis: 100%;
+    padding: 6px;
+    border: 1px solid #292929;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.avatar {
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
